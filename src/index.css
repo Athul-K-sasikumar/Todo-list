@@ -1,0 +1,99 @@
+
+*{
+  font-family: "Playfair Display", system-ui;
+}
+
+.p3{
+ display: block;
+  justify-content: center;
+  align-items: center;
+}
+.p3 h2{
+text-align: center;
+padding-top: 50px;
+font-size: 40px;
+color: #021526;}
+.p3 form{
+  display: flex;
+  justify-content: center;
+ 
+}
+.p3 input{
+  width: 30%;
+  text-align: center;
+  margin-top: 20px;
+  color: #021526;
+    height: 30px;
+    font-size: 20px;
+}
+.p3 button{
+  margin-left: 10px;
+  margin-top: 20px;
+  width: 8%;
+  background-color: red;
+  color: wheat;
+  font-weight: bold;
+    font-size: 16px;
+}
+.p4{
+  display: block;
+}
+.p4 h2{
+  font-size: 40px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: #021526;
+    text-align: center;
+}
+
+.p4 li{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+
+}
+.p5 h2{
+  text-align: center;
+  color: brown;
+  font-size: 40px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.p5 li{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+
+}
+.p6 h2{
+  text-align: center;
+  font-size: 40px;
+  color: brown;
+  padding-bottom: 40px;
+}
+.p6 li{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+.t1{
+  margin-left: 15px;
+  background-color: black;
+  color: aliceblue;
+  width: 8%;
+
+}
+.t2{
+  margin-left: 15px;
+  background-color: darkred;
+  width: 8%;
+  color: antiquewhite;
+}
+.p7{
+  text-align: center;
+  color: darkblue;
+  font-size: 40px;
+  padding: 20px;
+}

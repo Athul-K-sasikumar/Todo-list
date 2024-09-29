@@ -1,0 +1,37 @@
+.pl{
+  display: block;
+  justify-content: center;
+
+}
+body{
+  background-color: #C9DABF;
+ 
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.p12{
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  
+
+}
+.p12 a{
+  text-decoration: none;
+  color: #021526;
+}
+
+.p12 h2{
+  text-decoration: none;
+  color: #021526;
+  padding-left: 30px;
+
+}
+.p3{
+ 
+  justify-content: center;
+}
